@@ -1,0 +1,14 @@
+C:\Users\emil_\source\repos\Primenumber with intervalls\bin\Debug\net8.0\Primenumber with intervalls.exe
+C:\Users\emil_\source\repos\Primenumber with intervalls\bin\Debug\net8.0\Primenumber with intervalls.deps.json
+C:\Users\emil_\source\repos\Primenumber with intervalls\bin\Debug\net8.0\Primenumber with intervalls.runtimeconfig.json
+C:\Users\emil_\source\repos\Primenumber with intervalls\bin\Debug\net8.0\Primenumber with intervalls.dll
+C:\Users\emil_\source\repos\Primenumber with intervalls\bin\Debug\net8.0\Primenumber with intervalls.pdb
+C:\Users\emil_\source\repos\Primenumber with intervalls\obj\Debug\net8.0\Primenumber with intervalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil_\source\repos\Primenumber with intervalls\obj\Debug\net8.0\Primenumber with intervalls.AssemblyInfoInputs.cache
+C:\Users\emil_\source\repos\Primenumber with intervalls\obj\Debug\net8.0\Primenumber with intervalls.AssemblyInfo.cs
+C:\Users\emil_\source\repos\Primenumber with intervalls\obj\Debug\net8.0\Primenumber with intervalls.csproj.CoreCompileInputs.cache
+C:\Users\emil_\source\repos\Primenumber with intervalls\obj\Debug\net8.0\Primenumber with intervalls.dll
+C:\Users\emil_\source\repos\Primenumber with intervalls\obj\Debug\net8.0\refint\Primenumber with intervalls.dll
+C:\Users\emil_\source\repos\Primenumber with intervalls\obj\Debug\net8.0\Primenumber with intervalls.pdb
+C:\Users\emil_\source\repos\Primenumber with intervalls\obj\Debug\net8.0\Primenumber with intervalls.genruntimeconfig.cache
+C:\Users\emil_\source\repos\Primenumber with intervalls\obj\Debug\net8.0\ref\Primenumber with intervalls.dll
